@@ -117,7 +117,7 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/2.0/howto/static-files/
 
 # ignore
-STATIC_URL = 'static/'
+STATIC_URL = '/static/'
 
 # ignore
 STATIC_ROOT = 'staticfile/'
