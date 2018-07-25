@@ -1,1 +1,1 @@
-web gunicorn zomato.wsgi
+web: gunicorn zomato.wsgi
